@@ -1,6 +1,6 @@
 ---
 role: Graduate Student studying Teleoperation and AI
-avatar_filename: img_20210710_162119.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include Mobile Robotics, Teleoperation, and
   Artificial Intelligence
 interests:
