@@ -34,4 +34,4 @@ email: ""
 ---
 Michael Farquharson is a graduate student studying robot control theory at the McGill Center for Intelligent Machines. His research interests include Mobile Robotics, Teleoperation, and Artificial Intelligence. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
