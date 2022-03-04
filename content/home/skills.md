@@ -29,7 +29,7 @@ feature:
   icon_pack: fab
   name: Java
 - description: 50%
-  icon: c
+  icon: C               #!
   icon_pack: fas
   name: C/C++
 - description: 60%
@@ -42,7 +42,7 @@ feature:
   icon_pack: fas
   name: 3D CAD
 - description: 90%
-  icon: gears
+  icon: gear                       #!
   icon_pack: fas
   name: Mechanical System Design
 - description: 40%
@@ -54,12 +54,12 @@ feature:
   icon_pack: fas
   name: Software System Design
 - description: 90%
-  icon: screwdriver-wrench
+  icon: toolbox                   #!
   icon_pack: fas
   name: Prototype Fabrication
   
 - description: 70%
-  icon: chart-column
+  icon: chart-line
   icon_pack: fas
   name: Economics
 - description: 90%
@@ -71,7 +71,7 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 30%
-  icon: brain-circuit       #!!
+  icon: brain            #!
   icon_pack: fas
   name: AI/ML
 
