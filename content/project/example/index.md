@@ -1,8 +1,8 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: 3D Printer Contruction and Improvement
+summary: A hobby grade 3d printer was constructed partially from a kit
 #tags:
-#- Deep Learning
+#- 3D Printing
 #date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -12,7 +12,7 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
+#links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
