@@ -42,7 +42,7 @@ feature:
   icon_pack: fas
   name: 3D CAD
 - description: 90%
-  icon: cogs                       #!
+  icon: cogs
   icon_pack: fas
   name: Mechanical System Design
 - description: 40%
@@ -54,12 +54,12 @@ feature:
   icon_pack: fas
   name: Software System Design
 - description: 90%
-  icon: toolbox
+  icon: tools
   icon_pack: fas
   name: Prototype Fabrication
   
 - description: 70%
-  icon: chart-line
+  icon: chart-bar
   icon_pack: fas
   name: Economics
 - description: 90%
