@@ -29,7 +29,7 @@ feature:
   icon_pack: fab
   name: Java
 - description: 50%
-  icon: C
+  icon: solid c
   icon_pack: fab
   name: C/C++
 - description: 60%
