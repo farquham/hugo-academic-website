@@ -29,9 +29,9 @@ feature:
   icon_pack: fab
   name: Java
 - description: 50%
-  icon: C               #!
-  icon_pack: fas
-  name: C/C++
+  icon: C++               #!
+  icon_pack: custom
+  name: C++
 - description: 60%
   icon: linux
   icon_pack: fab
