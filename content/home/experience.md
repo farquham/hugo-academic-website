@@ -22,10 +22,10 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: 'Research Assistant'
+  - title: 'Research Assistant'
     company: 'McGill University'
-   # company_url: ''
-   # company_logo: org-gc
+  # company_url: ''
+  # company_logo: org-gc
     location: 'Quebec, CA'
     date_start: '2021-09-01'
     date_end: ''
@@ -33,10 +33,10 @@ experience:
         * Helped complete research related to teleoperation, and mobile robotics
         * Produced simulations using C++ and Vortex studio
 
-- title: 'Teaching Assistant'
+  - title: 'Teaching Assistant'
     company: 'McMaster University'
-   # company_url: ''
-   # company_logo: org-gc
+  # company_url: ''
+  # company_logo: org-gc
     location: 'Ontario, CA'
     date_start: '2020-09-01'
     date_end: '2021-04-30'
@@ -45,10 +45,10 @@ experience:
         * Provided feedback and support to students during online project labs, related to material science, computer science, and engineering presentations
         * Lead student breakout rooms through activities, answering any questions that the students had
 
-- title: 'Data Analyst Intern'
+  - title: 'Data Analyst Intern'
     company: 'Bombardier Aerospace'
-   # company_url: ''
-   # company_logo: org-gc
+  # company_url: ''
+  # company_logo: org-gc
     location: 'Ontario, CA'
     date_start: '2019-05-01'
     date_end: '2019-10-31'
@@ -57,10 +57,10 @@ experience:
         * Created short python scripts to clean and sort various data input streams as well as perform different forms of analysis on the cleaned data
         * Resulted in huge time savings for the department, was able to reduce the task time from months of work per year to less than an hour
 
-- title: 'Teaching Assistant'
+  - title: 'Teaching Assistant'
     company: 'McMaster University'
-   # company_url: ''
-   # company_logo: org-gc
+  # company_url: ''
+  # company_logo: org-gc
     location: 'Ontario, CA'
     date_start: '2019-01-01'
     date_end: '2019-04-30'
@@ -69,10 +69,10 @@ experience:
         * Evaluated written reflections and brainstorming activities related to Innovation and Entrepreneurship on feasibility of ideas and quality of work
         * Provided feedback on group research project, which was to complete the initial steps of starting a theoretical business
 
-- title: 'Summer Research Student'
+  - title: 'Summer Research Student'
     company: 'McMaster University'
-   # company_url: ''
-   # company_logo: org-gc
+  # company_url: ''
+  # company_logo: org-gc
     location: 'Ontario, CA'
     date_start: '2018-05-01'
     date_end: '2018-08-31'
