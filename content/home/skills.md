@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: Python 3
 - description: 90%
-  icon: chart-line      #!!
+  icon: chart-line
   icon_pack: fas
   name: MATLAB
 - description: 70%
@@ -29,7 +29,7 @@ feature:
   icon_pack: fab
   name: Java
 - description: 50%
-  icon: c               #!!
+  icon: c
   icon_pack: fas
   name: C/C++
 - description: 60%
@@ -38,36 +38,36 @@ feature:
   name: Linux Systems
 
 - description: 100%
-  icon: cube                      #!!
+  icon: cube
   icon_pack: fas
   name: 3D CAD
 - description: 90%
-  icon: gears                     #!!
+  icon: gears
   icon_pack: fas
   name: Mechanical System Design
 - description: 40%
-  icon: microchip                 #!!
+  icon: microchip
   icon_pack: fas
   name: Electrical System Design
 - description: 60%
-  icon: code                      #!!
+  icon: code
   icon_pack: fas
   name: Software System Design
 - description: 90%
-  icon: screwdriver-wrench        #!!
+  icon: screwdriver-wrench
   icon_pack: fas
   name: Prototype Fabrication
   
 - description: 70%
-  icon: chart-candlestick    #!!
+  icon: chart-column
   icon_pack: fas
   name: Economics
 - description: 90%
-  icon: dollar-sign         #!!
+  icon: dollar-sign
   icon_pack: fas
   name: Accounting
 - description: 80%
-  icon: dice                #!!
+  icon: dice
   icon_pack: fas
   name: Statistics
 - description: 30%
