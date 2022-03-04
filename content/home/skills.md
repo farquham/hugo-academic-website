@@ -24,32 +24,32 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: MATLAB
-- description: 70%
+- description: 60%
   icon: java
   icon_pack: fab
   name: Java
-- description: 50%
-  icon: C++               #!
-  icon_pack: custom
+- description: 30%
+  icon: desktop
+  icon_pack: fas
   name: C++
-- description: 60%
+- description: 50%
   icon: linux
   icon_pack: fab
   name: Linux Systems
 
-- description: 100%
+- description: 90%
   icon: cube
   icon_pack: fas
   name: 3D CAD
-- description: 90%
+- description: 80%
   icon: cogs
   icon_pack: fas
   name: Mechanical System Design
-- description: 40%
+- description: 30%
   icon: microchip
   icon_pack: fas
   name: Electrical System Design
-- description: 60%
+- description: 50%
   icon: code
   icon_pack: fas
   name: Software System Design
@@ -58,19 +58,19 @@ feature:
   icon_pack: fas
   name: Prototype Fabrication
   
-- description: 70%
+- description: 60%
   icon: chart-bar
   icon_pack: fas
   name: Economics
-- description: 90%
+- description: 80%
   icon: dollar-sign
   icon_pack: fas
   name: Accounting
-- description: 80%
+- description: 70%
   icon: dice
   icon_pack: fas
   name: Statistics
-- description: 30%
+- description: 10%
   icon: brain
   icon_pack: fas
   name: AI/ML
