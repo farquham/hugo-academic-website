@@ -29,8 +29,8 @@ feature:
   icon_pack: fab
   name: Java
 - description: 50%
-  icon: solid c   #!!
-  icon_pack: far
+  icon: c   #!!
+  icon_pack: fas
   name: C/C++
 - description: 60%
   icon: linux
@@ -43,15 +43,15 @@ feature:
   name: 3D CAD
 - description: 90%
   icon: gears   #!!
-  icon_pack: far
+  icon_pack: fas
   name: Mechanical System Design
 - description: 40%
   icon: microchip   #!!
-  icon_pack: far
+  icon_pack: fas
   name: Electrical System Design
 - description: 60%
   icon: code    #!!
-  icon_pack: far
+  icon_pack: fas
   name: Software System Design
 - description: 90%
   icon: screwdriver-wrench   #!!
@@ -64,7 +64,7 @@ feature:
   name: Economics
 - description: 90%
   icon: dollar-sign     #!!
-  icon_pack: far
+  icon_pack: fas
   name: Accounting
 - description: 80%
   icon: dice     #!!
@@ -72,7 +72,7 @@ feature:
   name: Statistics
 - description: 30%
   icon: brain-circuit     #!!
-  icon_pack: far
+  icon_pack: fas
   name: AI/ML
 
 # Uncomment to use emoji icons.
