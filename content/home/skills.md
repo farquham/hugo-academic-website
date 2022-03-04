@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: Python 3
 - description: 90%
-  icon: 
+  icon: chart-line
   icon_pack: fab
   name: MATLAB
 - description: 70%
@@ -38,25 +38,42 @@ feature:
   name: Linux Systems
 
 - description: 100%
-  icon: 
+  icon: cube
   icon_pack: fab
   name: 3D CAD
 - description: 90%
-  icon: 
+  icon: gears
   icon_pack: fab
   name: Mechanical System Design
 - description: 40%
-  icon: 
+  icon: microchip
   icon_pack: fab
   name: Electrical System Design
 - description: 60%
-  icon: 
+  icon: code
   icon_pack: fab
   name: Software System Design
 - description: 90%
-  icon: 
+  icon: screwdriver-wrench
   icon_pack: fab
   name: Prototype Fabrication
+  
+- description: 70%
+  icon: chart-candlestick
+  icon_pack: fab
+  name: Economics
+- description: 90%
+  icon: dollar-sign
+  icon_pack: fab
+  name: Accounting
+- description: 80%
+  icon: dice
+  icon_pack: fab
+  name: Statistics
+- description: 30%
+  icon: brain-circuit
+  icon_pack: fab
+  name: AI/ML
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
