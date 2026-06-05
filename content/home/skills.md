@@ -45,9 +45,17 @@ feature:
   icon_pack: fab
   name: Python
 - description: Proficient
+  icon: code
+  icon_pack: fas
+  name: C/C++
+- description: Proficient
   icon: cube
   icon_pack: fas
   name: CAD & Rapid Prototyping
+- description: Proficient
+  icon: microchip
+  icon_pack: fas
+  name: Mechatronic Integration
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
