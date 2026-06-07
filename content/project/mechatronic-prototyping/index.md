@@ -5,4 +5,4 @@ summary: Rapidly prototyped haptic and mechatronic interface devices using 3D pr
 tags: [Mechatronics, Prototyping, Haptics, Robotics]
 ---
 
-Built and iterated on custom interface devices using in-house fabrication, bridging mechanical design, embedded integration, and control system tuning to validate concepts quickly.
+Built and iterated on custom human-machine interface devices using in-house fabrication, bridging mechanical design, embedded integration, and control system tuning to validate concepts quickly.

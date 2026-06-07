@@ -5,9 +5,10 @@ bio: Robotics, control systems, teleoperation, and real-time simulation for
   high-performance robotic platforms.
 interests:
   - Control Systems
-  - Teleoperation & Haptics
+  - Teleoperation
   - Robotics
   - Real-time Simulation
+  - Physical AI
 social:
   - icon: github
     icon_pack: fab
@@ -17,7 +18,6 @@ social:
     link: https://www.linkedin.com/in/michael-a-farquharson/
 organizations:
   - name: Haply Robotics
-  - name: McGill University
 education:
   courses:
     - course: MSc in Mechanical Engineering
@@ -31,4 +31,4 @@ highlight_name: true
 title: Michael Farquharson
 email: ""
 ---
-Robotics software specialist focused on control systems, teleoperation, and simulation for real-time robotic platforms. Experience spans software architecture, haptic interfaces, and contact-rich simulation, with hands-on integration of mechatronic hardware and rapid prototyping. I work across R&D and product delivery to build robust, high-performance systems and communicate technical results.
+Robotics software specialist focused on control systems, teleoperation, and simulation for real-time robotic platforms. Experience spans software architecture, haptic interfaces, and contact-rich rigid-body simulation, with hands-on integration of mechatronic hardware and rapid prototyping. I work across R&D and product delivery to build robust, high-performance systems and communicate technical results.

@@ -20,7 +20,7 @@ feature:
   icon: cogs
   icon_pack: fas
   name: Control Systems
-- description: Advanced
+- description: Expert
   icon: hand-paper
   icon_pack: fas
   name: Teleoperation & Haptics
@@ -36,19 +36,19 @@ feature:
   icon: network-wired
   icon_pack: fas
   name: ROS 2
-- description: Proficient
+- description: Advanced
   icon: code
   icon_pack: fas
   name: Rust
-- description: Proficient
+- description: Expert
   icon: python
   icon_pack: fab
   name: Python
-- description: Proficient
+- description: Advanced
   icon: code
   icon_pack: fas
   name: C/C++
-- description: Proficient
+- description: Advanced
   icon: cube
   icon_pack: fas
   name: CAD & Rapid Prototyping

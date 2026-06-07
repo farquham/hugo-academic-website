@@ -29,7 +29,7 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        * Led a small cross-functional team building the HARP teleoperation platform
+        * Led a small cross-functional team building the HARP teleoperation platform made for Physical AI data collection
         * Designed a Rust-based concurrent control interface for haptic devices
         * Planned architecture for high-speed, robust, and modular safety controls
         * Supported demos and technical client discussions
@@ -51,7 +51,7 @@ experience:
     date_end: '2024-12-01'
     description: |2-
         Responsibilities included:
-        * Rapidly prototyped interface devices using 3D printing and in-house fabrication
+        * Rapidly prototyped human-machine interface devices using 3D printing and in-house fabrication
         * Supported demos and technical client inquiries
 
   - title: 'Graduate Student Researcher'
@@ -61,7 +61,7 @@ experience:
     date_end: '2025-08-01'
     description: |2-
         Responsibilities included:
-        * Built teleoperation simulations with contact physics for remote aerial vehicles
+        * Built teleoperation simulations with contact physics for remote aerial vehicles to support a model predictive control architecture
         * Developed ROS 2-based test platforms for low-latency control
         * Designed haptic control algorithms for human-machine interfaces
 
