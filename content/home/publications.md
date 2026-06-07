@@ -8,9 +8,9 @@ headless: true
 active: false
 
 # Order that this section appears on the page.
-weight: 90
+weight: 100
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
@@ -37,6 +37,4 @@ design:
   columns: '2'
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+Selected publications and research outputs will be listed here.

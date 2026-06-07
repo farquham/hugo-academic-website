@@ -1,16 +1,15 @@
 ---
-role: Graduate Student studying Teleoperation and AI
-avatar_filename: avatar.jpg
-bio: My research interests include Mobile Robotics, Teleoperation, and
-  Artificial Intelligence
+role: Robotics Software Specialist | Control Systems & Teleoperation
+avatar_filename: avatar.png
+bio: Robotics, control systems, teleoperation, and real-time simulation for
+  high-performance robotic platforms.
 interests:
-  - Artificial Intelligence
-  - Robot Control Systems
-  - Dynamic System Modeling
+  - Control Systems
+  - Teleoperation
+  - Robotics
+  - Real-time Simulation
+  - Physical AI
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: github
     icon_pack: fab
     link: https://github.com/farquham
@@ -18,12 +17,12 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/michael-a-farquharson/
 organizations:
-  - name: McGill University
+  - name: Haply Robotics
 education:
   courses:
     - course: MSc in Mechanical Engineering
       institution: McGill University
-      year: 2023
+      year: 2025
     - course: BEng in Mechanical Engineering
       institution: McMaster University
       year: 2021
@@ -32,4 +31,4 @@ highlight_name: true
 title: Michael Farquharson
 email: ""
 ---
-Michael Farquharson is a graduate student studying robot control theory at the McGill Center for Intelligent Machines. His research interests include Mobile Robotics, Teleoperation, and Artificial Intelligence. 
+Robotics software specialist focused on control systems, teleoperation, and simulation for real-time robotic platforms. Experience spans software architecture, haptic interfaces, and contact-rich rigid-body simulation, with hands-on integration of mechatronic hardware and rapid prototyping. I work across R&D and product delivery to build robust, high-performance systems and communicate technical results.

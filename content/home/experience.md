@@ -22,68 +22,58 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 'Research Assistant'
-    company: 'McGill University'
-  # company_url: ''
-  # company_logo: org-gc
-    location: 'Quebec, CA'
-    date_start: '2021-09-01'
+  - title: 'HARP Technical Lead, Robotics Software Specialist'
+    company: 'Haply Robotics'
+    location: 'Montreal, QC'
+    date_start: '2025-03-01'
     date_end: ''
     description: |2-
         Responsibilities include:
-        * Helped complete research related to teleoperation, and mobile robotics
-        * Produced simulations using C++ and Vortex studio
+        * Led a small cross-functional team building the HARP teleoperation platform made for Physical AI data collection
+        * Designed a Rust-based concurrent control interface for haptic devices
+        * Planned architecture for high-speed, robust, and modular safety controls
+        * Supported demos and technical client discussions
 
-  - title: 'Teaching Assistant'
-    company: 'McMaster University'
-  # company_url: ''
-  # company_logo: org-gc
-    location: 'Ontario, CA'
-    date_start: '2020-09-01'
-    date_end: '2021-04-30'
+  - title: 'Robotics Control Specialist'
+    company: 'Haply Robotics'
+    location: 'Montreal, QC'
+    date_start: '2024-12-01'
+    date_end: '2025-03-01'
     description: |2-
         Responsibilities included:
-        * Assisted in facilitating an excellent education experience for students in Engineering 1P13
-        * Provided feedback and support to students during online project labs, related to material science, computer science, and engineering presentations
-        * Lead student breakout rooms through activities, answering any questions that the students had
+        * Developed concurrent robot control interfaces for force-feedback devices
+        * Supported rapid prototyping and integration across mechatronics projects
+
+  - title: 'Mechatronics R&D'
+    company: 'Haply Robotics'
+    location: 'Montreal, QC'
+    date_start: '2023-12-01'
+    date_end: '2024-12-01'
+    description: |2-
+        Responsibilities included:
+        * Rapidly prototyped human-machine interface devices using 3D printing and in-house fabrication
+        * Supported demos and technical client inquiries
+
+  - title: 'Graduate Student Researcher'
+    company: 'McGill University'
+    location: 'Montreal, QC'
+    date_start: '2021-09-01'
+    date_end: '2025-08-01'
+    description: |2-
+        Responsibilities included:
+        * Built teleoperation simulations with contact physics for remote aerial vehicles to support a model predictive control architecture
+        * Developed ROS 2-based test platforms for low-latency control
+        * Designed haptic control algorithms for human-machine interfaces
 
   - title: 'Data Analyst Intern'
-    company: 'Bombardier Aerospace'
-  # company_url: ''
-  # company_logo: org-gc
-    location: 'Ontario, CA'
+    company: 'Bombardier'
+    location: 'Toronto, ON'
     date_start: '2019-05-01'
     date_end: '2019-10-31'
     description: |2-
         Responsibilities included:
-        * Worked independently to solve complex data manipulation problems in order to reduce task time
-        * Created short python scripts to clean and sort various data input streams as well as perform different forms of analysis on the cleaned data
-        * Resulted in huge time savings for the department, was able to reduce the task time from months of work per year to less than an hour
-
-  - title: 'Teaching Assistant'
-    company: 'McMaster University'
-  # company_url: ''
-  # company_logo: org-gc
-    location: 'Ontario, CA'
-    date_start: '2019-01-01'
-    date_end: '2019-04-30'
-    description: |2-
-        Responsibilities included:
-        * Assisted in facilitating an excellent education experience for Innovation 1X03 under professor Kenneth Owen
-        * Evaluated written reflections and brainstorming activities related to Innovation and Entrepreneurship on feasibility of ideas and quality of work
-        * Provided feedback on group research project, which was to complete the initial steps of starting a theoretical business
-
-  - title: 'Summer Research Student'
-    company: 'McMaster University'
-  # company_url: ''
-  # company_logo: org-gc
-    location: 'Ontario, CA'
-    date_start: '2018-05-01'
-    date_end: '2018-08-31'
-    description: |2-
-        Responsibilities included:
-        * Awarded Heater Fellowship to work under Dr. James Cotton doing reaserach into waste heat recovery
-        * Developed an analytical thermal system model of a patented waste heat recovery system using Modelica and Excel
+        * Automated data cleaning and analysis workflows with Python
+        * Reduced recurring analytics tasks from months to under an hour
 
 design:
   columns: '2'

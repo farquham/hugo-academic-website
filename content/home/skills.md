@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 80
 
 title: Skills
 subtitle:
@@ -16,64 +16,46 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 100%
-  icon: python
-  icon_pack: fab
-  name: Python 3
-- description: 90%
-  icon: chart-line
-  icon_pack: fas
-  name: MATLAB
-- description: 60%
-  icon: java
-  icon_pack: fab
-  name: Java
-- description: 30%
-  icon: desktop
-  icon_pack: fas
-  name: C++
-- description: 50%
-  icon: linux
-  icon_pack: fab
-  name: Linux Systems
-
-- description: 90%
-  icon: cube
-  icon_pack: fas
-  name: 3D CAD
-- description: 80%
+- description: Advanced
   icon: cogs
   icon_pack: fas
-  name: Mechanical System Design
-- description: 30%
-  icon: microchip
+  name: Control Systems
+- description: Expert
+  icon: hand-paper
   icon_pack: fas
-  name: Electrical System Design
-- description: 50%
+  name: Teleoperation & Haptics
+- description: Advanced
+  icon: robot
+  icon_pack: fas
+  name: Robotics
+- description: Advanced
+  icon: project-diagram
+  icon_pack: fas
+  name: Real-time Simulation
+- description: Proficient
+  icon: network-wired
+  icon_pack: fas
+  name: ROS 2
+- description: Advanced
   icon: code
   icon_pack: fas
-  name: Software System Design
-- description: 90%
-  icon: tools
+  name: Rust
+- description: Expert
+  icon: python
+  icon_pack: fab
+  name: Python
+- description: Advanced
+  icon: code
   icon_pack: fas
-  name: Prototype Fabrication
-  
-- description: 60%
-  icon: chart-bar
+  name: C/C++
+- description: Advanced
+  icon: cube
   icon_pack: fas
-  name: Economics
-- description: 80%
-  icon: dollar-sign
+  name: CAD & Rapid Prototyping
+- description: Proficient
+  icon: microchip
   icon_pack: fas
-  name: Accounting
-- description: 70%
-  icon: dice
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: brain
-  icon_pack: fas
-  name: AI/ML
+  name: Mechatronic Integration
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
